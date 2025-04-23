@@ -1,0 +1,29 @@
+body{
+  background-color: black;
+}
+
+.container{
+  text-align: center;
+}
+.div1{
+  display: flex;
+  text-align: center;
+}
+
+.div2{
+  border: 5px solid white;
+  margin: 10px;
+  padding: 10px;
+  width: 250px;
+  background-color: aqua;
+  color: black;
+  border-radius: 25px;
+}
+
+.name{
+  color: rgb(229, 55, 55);
+}
+
+.title{
+  color: rgb(229, 55, 55);
+}
